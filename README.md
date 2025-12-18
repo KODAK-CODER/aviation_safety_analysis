@@ -20,3 +20,5 @@ This project performs a comprehensive analysis of global aviation accident data 
 * `aviation_safety_analysis.ipynb`: The primary Jupyter Notebook containing the Python code.
 * `presentation.pdf`: A non-technical summary of the findings for stakeholders.
 * `*.twbx`: The Tableau packaged workbook for visual exploration.
+
+[📊 View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/kamuri.don/viz/AviationDivisionsafetyandprocurementstrategy/Dashboard4?publish=yes)
